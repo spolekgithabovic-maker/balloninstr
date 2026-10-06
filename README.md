@@ -12,7 +12,7 @@ Statický prototyp homepage pro [ballon.cz](https://www.ballon.cz/) podle zadán
 Stačí otevřít `index.html` v prohlížeči, nebo zapnout GitHub Pages (Settings → Pages → Deploy from branch → `main` / root).
 
 ## Před spuštěním ostré verze
-- Nahradit fotografii haly v úvodu vlastní fotkou (aktuální je převzatý cizí reklamní snímek).
+- Úvodní hala je ilustrační AI vizualizace – případně nahradit fotkou skutečné zkušebny Ballon.
 - Doplnit originály galerie ve vyšším rozlišení, skutečná čísla a případové studie.
 - Schválit texty Zásad cookies a GDPR.
 - Fonty a knihovny (GSAP, Lenis) hostovat lokálně.
